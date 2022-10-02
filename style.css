@@ -1,0 +1,14 @@
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.quadrado{
+    background-color:black;
+    width: 150px;
+    height: 150px;
+}
+
+.quadrado.azul{
+    background-color: blue;
+}
